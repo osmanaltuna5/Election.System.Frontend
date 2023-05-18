@@ -1,0 +1,17 @@
+.logo{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+    
+}
+p.logo{
+    font: 1em sans-serif;
+    font-size: small !important;
+}
+.link{
+    text-decoration: none;
+    box-shadow: none;
+    color: white;
+
+}
